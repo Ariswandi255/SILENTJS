@@ -14,12 +14,12 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 
 var myStaff = ['']; //Taro Mid Yang Mau Dijadiin Staff/Wakil Admin
 
-const myAdmin = ['ub1c5a71f27b863896e9d44bea857d35b','ufdc20b3a00b5e8f31e4f91017eb361b0','u3160d2dd9658a7acec1a2480baa6a738']; //Mid Lu Supaya Jadi Admin
+const myAdmin = ['ub1c5a71f27b863896e9d44bea857d35b','ufdc20b3a00b5e8f31e4f91017eb361b0','u3160d2dd9658a7acec1a2480baa6a738','u0493af15f4088aa5dc22e75a89771bca']; //Mid Lu Supaya Jadi Admin
 
 const myAssist = ['']; //Mid Bot Lu Jika Ada Bot 2 Atau Lebih
 
 const myBot = ['']; //Taro Mid Bot Lu Kesini (Maksud Gw Bot Yang Pake Sc Ini)
-const BoT = ['ueff8f78401c867593c6ddc8aeb8c649d','ubace7dd5006c744f5aef3e412c04e219','uf658d58086736afcfe1e1c65d290a2bf','u4382d72a8552bf1024957a02728b6ffe','u08719b87716863d883afc9f79e39a556']
+const BoT = ['ueff8f78401c867593c6ddc8aeb8c649d','ubace7dd5006c744f5aef3e412c04e219','uf658d58086736afcfe1e1c65d290a2bf','u4382d72a8552bf1024957a02728b6ffe','u08719b87716863d883afc9f79e39a556','uc028765ef905dbe22cbc83a744a35583'];
 var BlackListPermanen = ['u502fd6dcacda727a8d85bcb6708fa403'];
 var BackupList = [];
 var TbanList = []; //Users Banned Chat
